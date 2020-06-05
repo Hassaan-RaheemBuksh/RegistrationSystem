@@ -10,7 +10,7 @@
     This project is based on graphical user interface and i use text file approach to save user information.
     This project consist of 2 forms (Signup) and (Login) with strong validations.
 ## Validation Key Features
-    '''
+'''
     * SignUp Form
       1. Validation for **all require feilds**
       1. Validation for **email format checker**
@@ -21,5 +21,5 @@
       1. Validation for **email format checker**
       1. Validation for **existance of email**
       1. Validation for **user data**
-    '''
+'''
      

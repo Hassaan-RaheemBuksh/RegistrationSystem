@@ -7,8 +7,8 @@
 ## Abstract
     Registration system is a structure that provides a simple set-up of programs for user enrollment.
 ## Description
-    This project is based on graphical user interface and i use text file approach to save user information.It consist of 2 forms  
-   **Signup** and **Login** with strong **validations**.
+    This project is based on graphical user interface and i use text file approach to save user information.
+    This project consist of 2 forms **Signup** and **Login** with strong **validations**.
 ## Validation Key Features
   * SignUp Form
     1. Validation for **all require feilds**
